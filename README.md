@@ -1,3 +1,3 @@
-# daria-ishkova.gihub.io
+# daria-ishkova.github.io
 
 This will be my personal page
