@@ -7,7 +7,7 @@
     position: fixed;
     top: 0;
     width: 100%;
-    border: 1px solid red;
+    border: 1px solid white;
     padding: 15px;
 }
 
@@ -20,7 +20,7 @@
     background-color: #99ff99;
     position: fixed;
     top: 115px;
-    bottom: 115px;
+    bottom: 45px;
     width: 25%;
     padding: 15px;
     overflow:auto;
@@ -47,6 +47,6 @@
     position: fixed;
     bottom: 0;
     width: 100%;
-    border: 1px solid red;
+    border: 1px solid white;
     padding: 15px;
 }
