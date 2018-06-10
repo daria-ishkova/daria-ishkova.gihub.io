@@ -35,7 +35,7 @@
     background-color:#ffffff;
     position: fixed;
     top: 115px;
-    bottom: 115px;
+    bottom: 45px;
     width: 74.5%;
     padding: 15px;
     overflow:auto;
@@ -44,6 +44,7 @@
 .footer {
     background-color: #85e085;
     color: #ffffff;
+    text-align: center;
     position: fixed;
     bottom: 0;
     width: 100%;
